@@ -9,7 +9,7 @@ Atuo na interseção entre **Análise de Dados, Estatística, Business Intellige
 ---
 
 ### 🛠️ Ferramentas & Competências
-- **Dados, BI & Estatística:** Power BI (DAX, Power Query), Excel, SQL, Estatística Aplicada, Telemetria Gorilla (API)
+- **Dados, BI & Estatística:** Power BI (DAX, Power Query), Excel, SQL, Estatística Aplicada, APIs
 - **Automação & Produtividade:** Python (VS Code) para tratamento de planilhas e automação de relatórios/e-mails (Outlook), Copilot, Claude
 - **Processos, Supply Chain & Tecnologias Emergentes:** Otimização de Processos, Lean Manufacturing, Ferramentas da Qualidade (Ishikawa, Pareto, Cartas de Controle), Supply Chain, Blockchain e noções de SAP
 
