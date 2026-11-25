@@ -13,9 +13,3 @@ Atuo na interseção entre **Análise de Dados, Estatística, Business Intellige
 - **Automação & Produtividade:** Python (VS Code) para tratamento de planilhas e automação de relatórios/e-mails (Outlook), Copilot, Claude
 - **Processos, Supply Chain & Tecnologias Emergentes:** Otimização de Processos, Lean Manufacturing, Ferramentas da Qualidade (Ishikawa, Pareto, Cartas de Controle), Supply Chain, Blockchain e noções de SAP
 
----
-
-### 📌 Projetos em Destaque
-
-- **[PDV---Distribuidora](https://github.com/Caibny/PDV---Distribuidora)** - Sistema de Ponto de Venda e gestão de estoque desenvolvido em Python, com leitura de código de barras, cálculo de margem/lucro separado do faturamento, relatórios analíticos e emissão de comandas.
-- **LibreScan IR** - MVP open-source de leitura industrial de códigos de barras/QR Code focado em rastreabilidade e eliminação de gargalos na cadeia de triagem, acompanhado de estudo de viabilidade financeira (CAPEX, OPEX, VPL e TIR).
