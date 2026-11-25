@@ -2,7 +2,7 @@
 
 Atuo na interseção entre **Análise de Dados, Estatística, Business Intelligence (BI), Processos Industriais, Supply Chain e Blockchain**, transformando dados operacionais em eficiência e decisões estratégicas.
 
-- 🏭 **Atuação:** Produção Industrial (RISA) na **RHI Magnesita** — desenvolvimento de dashboards em Power BI, integração de telemetria via API, análise estatística de indicadores operacionais (OEE, TEEP, Performance, Disponibilidade e Utilização) e automação de processos.
+- 🏭 **Atuação:** Produção Industrial (RISA) na **RHI Magnesita** - desenvolvimento de dashboards em Power BI, integração de telemetria via API, análise estatística de indicadores operacionais (OEE, TEEP, Performance, Disponibilidade e Utilização) e automação de processos.
 - 🎓 **Formação:** Engenharia de Software (**UNIASSELVI**) & Processos de Produção Industrial (**SENAI**).
 - 🔗 **Foco & Pesquisa:** Análise de Dados, Estatística Aplicada, BI, Gestão de Processos, Supply Chain e aplicações de Blockchain para rastreabilidade e transparência na cadeia produtiva.
 
